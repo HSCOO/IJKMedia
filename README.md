@@ -1,2 +1,0 @@
-# IJKMedia
-IJKMediaFramework 
