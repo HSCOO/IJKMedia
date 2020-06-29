@@ -1,0 +1,16 @@
+PODS:
+  - IJKMedia (0.1.0)
+
+DEPENDENCIES:
+  - IJKMedia (from `../`)
+
+EXTERNAL SOURCES:
+  IJKMedia:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IJKMedia: 72737a6f26abd712f9f56c6da938347d2c3e8098
+
+PODFILE CHECKSUM: 2a5b73db83502244f1b652e0cff251736a7fa5f1
+
+COCOAPODS: 1.9.3
