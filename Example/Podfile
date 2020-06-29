@@ -1,0 +1,6 @@
+use_frameworks!
+target 'IJKMedia_Tests' do
+  pod 'IJKMedia', :path => '../'
+  
+  
+end
